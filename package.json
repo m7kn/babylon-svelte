@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@babylonjs/core": "^4.0.3",
+    "@babylonjs/gui": "^4.0.3",
     "babylonjs": "^4.0.3",
     "sirv-cli": "^0.4.4"
   }

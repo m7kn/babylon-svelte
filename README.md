@@ -1,6 +1,6 @@
 # Babylon.js tests with Svelte
 
-preview: https://mystifying-thompson-5965ff.netlify.com/
+preview: https://babylon-svelte.netlify.com/
 
 or clone & start up a development server:
 
